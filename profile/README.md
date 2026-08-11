@@ -6,21 +6,17 @@ Rivora is being built around the idea of keeping servers and frameworks independ
 
 ## Projects
 
-### RCP
+### [RCP](https://github.com/RivoraEcosystem/RCP)
 
 **Rivora Contract Protocol**
 
 A communication protocol inspired by ASGI that allows compatible servers and frameworks to work together without depending on each other's internal implementation.
 
-→ [View RCP](https://github.com/RivoraEcosystem/RCP)
-
-### Riven
+### [Riven](https://github.com/RivoraEcosystem/Riven)
 
 **Python RCP-based application server**
 
 Riven is the server side of the ecosystem, currently focused on building an HTTP/3 server using `aioquic`, `asyncio`, and `uvloop`.
-
-→ [View Riven](https://github.com/RivoraEcosystem/Riven)
 
 ### Rivora
 
