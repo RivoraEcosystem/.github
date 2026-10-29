@@ -28,11 +28,9 @@ Rivora is currently in the planning stage while development is focused on Riven.
 
 ## Development
 
-The ecosystem is being built in public, with development logs, architecture decisions, experiments, and releases shared along the way.
-
 Current focus:
 
-`HTTP/3` · `QUIC` · `RCP` · `Python`
+`HTTP/3` · `QUIC` · `RCP` · `Python` · `WebTransport`
 
 More projects and tooling will be added as the ecosystem grows.
 
